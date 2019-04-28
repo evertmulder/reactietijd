@@ -1,17 +1,3 @@
-
-Niets geselecteerd
-
-Spring naar content
-Mail van Familiemulder.eu gebruiken met schermlezers
-Bureaubladmeldingen inschakelen voor Mail van Familiemulder.eu.   OK  Nee, bedankt
-Conversaties
-0,12 GB (0%) van 15 GB gebruikt
-Beheren
-Programmabeleid
-Mogelijk gemaakt door Google
-Laatste accountactiviteit: 24 minuten geleden
-Details
-
 import random
 import datetime
 import time
@@ -105,6 +91,3 @@ colorWipe(strip, Color(0, 0, 0))
 print("Druk zo snel mogelijk op de spatiebalk wanneer je het signaal ziet ....")
 while True:
     reactie_tijd()
-
-reactietijd.py
-reactietijd.py wordt weergegeven.
